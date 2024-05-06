@@ -1,0 +1,17 @@
+body{
+ background-color: black;
+ color: rgb(100, 15, 143);
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+}
+
+.cabeçalho{
+    background-color: rgb(52, 13, 88);
+    color: darkorchid;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
